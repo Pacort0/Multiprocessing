@@ -5,7 +5,7 @@ def suma(num1, num2):
     print ("Suma igual a", res)
 
 def hello(name):
-    print("Hola Eloy")
+    print("Hola", name)
 
 
 if __name__ == "__main__":
